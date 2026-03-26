@@ -1,0 +1,10 @@
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.7
+yfinance>=0.2
+openpyxl>=3.1
+torch
+lightning
+scikit-learn
+torchmetrics
+pytorch-forecasting
