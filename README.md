@@ -22,3 +22,14 @@ A custom function is implemented to ensure reproducibility of results by control
 Install dependencies with:
 
 pip install -r requirements.txt
+
+
+## Reference
+
+The implementation is based on the original paper:
+
+Lim, B., Arik, S. Ö., Loeff, N., & Pfister, T. (2021).  
+Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting.
+
+Paper: https://arxiv.org/abs/1912.09363
+
